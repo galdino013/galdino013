@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1>
+    <a href="https://github.com/galdino013">
+     <img align="center" width="60px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png"></a>
+    <span> Sejam bem vindos ao meu GitHub</span>
+</h1>
 
-<!--
-**galdino013/galdino013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui você ficará sabendo mais sobre quem eu sou e um pouco de minhas habilidades 😉🚀.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Olá, eu sou Igor Galdino! 👋
+
+### 💻 Sobre mim
+
+Com 24 anos, sou formado através de cursos técnicos em Desenvolvimento Web, Design Gráfico e Montagem e Manutenção de Computadores e atualmente curso o 6º semestre de Ciência da Computação na Universidade Paulista. Trabalho como Assistente de Projetos Jr. no Zukkin, uma empresa de Inteligência de Preços, onde aplico meus conhecimentos para contribuir com soluções inovadoras.
+
+Tenho experiência com Qualidade de Software e certificações em Cybersecurity e Hardware. Sempre busco aprender novas tecnologias e aprimorar minhas habilidades para me tornar um profissional ainda mais completo.
+
+### 🚀 Tecnologias e Ferramentas
+
+💻 Linguagens: Java, Python, SQL, Shell (Bash)
+
+🌐 Desenvolvimento Web: HTML e CSS
+
+🛠 Outras Tecnologias: Git e GitHub
+
+🔎 Interesses: Segurança da Informação, Ciência de Dados, Automação
+
+Sempre aberto para trocar ideias e aprender mais! 🚀
+
+### 📫 Entre em contato
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://dio.me/users/galdinoigor013)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:galdinoigor013@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://linkedin.com/in/igorgaldino)
+
+### Habilidades
+
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galdino013&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=galdino013&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+---
